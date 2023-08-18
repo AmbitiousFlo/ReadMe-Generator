@@ -1,9 +1,9 @@
 # README Generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache License 2.0](https://img.shields.io/badge/License-Apache%20License%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
-This is an application built for users who want to generate a high quality readme in minutews. The application takes information inputted and generates the README.
+
 
 ## Table of Contents
 * [Installation](#installation)
@@ -14,20 +14,20 @@ This is an application built for users who want to generate a high quality readm
 * [License](#license)
 
 ## Installation
-No instructions 
+
 
 ## Usage
-You use this aapplication by opening the repo and inputting (node index.js) in the integrated terminal, then you answer all the questions to generate the README.
+
 
 ## Contributing
-Feel free to create a pull request.
+
 
 ## Tests
-No test for the project 
+
 
 ## Questions
-For any questions, contact me at any time via email: Floresc712@yahoo.com
-Check out my [GitHub profile](https://github.com/AmbitiousFlo)!
+For any questions, contact me at any time via email: 
+Check out my [GitHub profile](https://github.com/)!
 
 ## License
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+This project is licensed under the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) license.

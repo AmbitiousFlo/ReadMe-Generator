@@ -11,11 +11,11 @@ takes information inputted and generates the README.
 
 ## Usage
 
-![App Demo](./Develop/assets/README%20Generator%20.gif)
+![App Demo](./Develop/assets/README%20Generator.gif)
 
 ## Video Demo
 
-[Video Demo](https://drive.google.com/file/d/1_0-weR5d3QhU3y98Ta1GTJULc57ey65v/view)
+[Video Demo](https://drive.google.com/file/d/1JI53Fmu2ACYoi6JdodF2LYN_VopT0QVt/view)
 
 
 ## Challenges 
