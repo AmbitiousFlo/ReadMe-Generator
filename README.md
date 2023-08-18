@@ -2,7 +2,7 @@
 
 ## User Story 
 
-![Screenshot of User Story](./assets/Screenshot%202023-08-17%20184408.png) 
+![Screenshot of User Story](./Develop/assets/Screenshot%202023-08-17%20184408.png) 
 
 ## Description 
 
@@ -10,11 +10,12 @@ This is an application built for users who wawnt to generate a high quality read
 takes information inputted and generates the README.
 
 ## Usage
-![Screenshot of README Generator](./assets/Screenshot%202023-08-17%20185520.png) 
+![App Demo](./Develop/assets/README%20Generator%20.gif)
 
 ## Video Demo
 
 [Video Demo](https://drive.google.com/file/d/1_0-weR5d3QhU3y98Ta1GTJULc57ey65v/view)
+
 
 
 ## Motivation 
