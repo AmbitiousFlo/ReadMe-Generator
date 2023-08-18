@@ -1,6 +1,6 @@
 # README Generator
 
-[![License: Apache License 2.0](https://img.shields.io/badge/License-Apache%20License%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
@@ -26,8 +26,8 @@
 
 
 ## Questions
-For any questions, contact me at any time via email: 
-Check out my [GitHub profile](https://github.com/)!
+For any questions, contact me at any time via email: Floresc712@yahoo.com
+Check out my [GitHub profile](https://github.com/AmbitiousFlo)!
 
 ## License
-This project is licensed under the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0) license.
+This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
