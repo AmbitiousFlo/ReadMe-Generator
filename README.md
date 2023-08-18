@@ -6,10 +6,11 @@
 
 ## Description 
 
-This is an application built for users who wawnt to generate a high quality readme in minutes. The application 
+This is an application built for users who want to generate a high quality readme in minutes. The application 
 takes information inputted and generates the README.
 
 ## Usage
+
 ![App Demo](./Develop/assets/README%20Generator%20.gif)
 
 ## Video Demo
@@ -24,10 +25,12 @@ My motivation for this project was to really learn node.js while building this p
 
 
 ## Contact
+
 Email Me! Floresc712@yahoo.com
 
 
 ## License
+
 &copy; 2023 Christian Flores
 
 [MIT License](https://opensource.org/licenses/MIT) 
