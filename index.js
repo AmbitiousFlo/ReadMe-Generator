@@ -1,7 +1,7 @@
 // Required packages for the application
 const fs = require("fs");  // File System module for reading and writing files
 const inquirer = require("inquirer");  // Package for interactive command-line prompts
-const generateMarkdown = require("./utils/generateMarkdown.js");  // Custom module for generating Markdown content
+const generateMarkdown = require("./Develop/utils/generateMarkdown.js");  // Custom module for generating Markdown content
 
 // Array of questions for user input
 const questionsForUser = [
