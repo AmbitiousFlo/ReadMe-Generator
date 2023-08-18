@@ -36,3 +36,7 @@ Email Me! Floresc712@yahoo.com
 ## References 
 
 Shout out to Uncle Phil for always uploading the homework it helps alot!
+
+<a href="https://stackoverflow.com/questions/62597209/trying-to-generate-a-readme-using-nodejs"> Stack Overflow</a>
+
+https://www.youtube.com/watch?v=SpFyvDPdcO0
