@@ -18,6 +18,10 @@ takes information inputted and generates the README.
 [Video Demo](https://drive.google.com/file/d/1_0-weR5d3QhU3y98Ta1GTJULc57ey65v/view)
 
 
+## Challenges 
+
+I ran into a huge issue when I finished answering all the questions, My README did not update properly. I needed to relink the file on line 96 to the appropriate file and the bug was fixed. I am glad I ran into this bug because I will not make that mistake again.
+
 
 ## Motivation 
 

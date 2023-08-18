@@ -93,7 +93,7 @@ function init() {
     inquirer
     .prompt(questionsForUser)
     .then((data) => {
-        const fileName = `./generated-readme/README.md`;
+        const fileName = `Develop/generated-readme/README.md`;
         let fileToWrite = generateMarkdown(data);  // Generate Markdown content based on user input
         writeREADME(fileName, fileToWrite);  // Write the generated content to a file
     });
